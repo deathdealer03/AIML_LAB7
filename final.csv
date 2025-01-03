@@ -1,0 +1,413 @@
+Age,Dailyrate,Department
+34,790,Sales
+35,660,Sales
+24,381,Research & Development
+24,830,Sales
+44,1193,Research & Development
+29,1246,Sales
+30,330,Human Resources
+55,1229,Research & Development
+33,1099,Research & Development
+47,571,Sales
+28,289,Research & Development
+28,1423,Research & Development
+28,467,Sales
+49,271,Research & Development
+29,410,Research & Development
+28,1083,Research & Development
+33,516,Research & Development
+32,495,Research & Development
+54,1050,Research & Development
+29,224,Research & Development
+44,136,Research & Development
+39,1089,Research & Development
+46,228,Sales
+35,1029,Research & Development
+23,507,Research & Development
+40,676,Research & Development
+34,971,Sales
+31,561,Research & Development
+50,333,Research & Development
+34,1440,Sales
+42,1210,Research & Development
+37,674,Research & Development
+29,441,Research & Development
+33,575,Research & Development
+45,950,Research & Development
+42,288,Research & Development
+40,1342,Sales
+33,589,Research & Development
+40,898,Human Resources
+24,350,Research & Development
+40,1142,Research & Development
+45,538,Research & Development
+35,1402,Sales
+32,824,Research & Development
+36,1157,Sales
+48,492,Sales
+29,598,Research & Development
+33,1242,Sales
+30,740,Sales
+38,888,Human Resources
+35,992,Research & Development
+30,1288,Sales
+35,104,Research & Development
+53,607,Research & Development
+38,903,Research & Development
+32,1200,Research & Development
+48,1108,Research & Development
+34,479,Research & Development
+55,685,Sales
+34,1351,Research & Development
+26,474,Research & Development
+38,1245,Sales
+38,437,Sales
+36,884,Sales
+29,1370,Research & Development
+35,670,Research & Development
+39,1462,Sales
+29,995,Research & Development
+50,264,Sales
+23,977,Research & Development
+36,1302,Research & Development
+42,1059,Research & Development
+35,750,Research & Development
+34,653,Research & Development
+40,118,Sales
+43,990,Research & Development
+35,1349,Research & Development
+46,563,Sales
+28,329,Research & Development
+22,457,Research & Development
+50,1234,Research & Development
+32,634,Research & Development
+44,1313,Research & Development
+30,241,Research & Development
+45,1015,Research & Development
+45,336,Sales
+31,715,Sales
+36,559,Research & Development
+34,426,Research & Development
+49,722,Research & Development
+39,1387,Research & Development
+27,1302,Research & Development
+35,819,Research & Development
+28,580,Research & Development
+21,546,Research & Development
+18,544,Sales
+47,1176,Human Resources
+39,170,Research & Development
+40,884,Research & Development
+35,208,Research & Development
+37,671,Research & Development
+39,711,Research & Development
+45,1329,Research & Development
+38,397,Research & Development
+35,737,Sales
+37,1470,Research & Development
+40,448,Research & Development
+44,602,Human Resources
+48,365,Research & Development
+35,763,Sales
+24,567,Research & Development
+27,486,Research & Development
+27,591,Research & Development
+40,1329,Research & Development
+29,469,Sales
+36,711,Research & Development
+25,772,Research & Development
+39,492,Research & Development
+49,301,Research & Development
+50,813,Research & Development
+20,1141,Sales
+34,1130,Research & Development
+36,311,Research & Development
+49,465,Research & Development
+36,894,Research & Development
+36,1040,Research & Development
+54,584,Research & Development
+43,1291,Research & Development
+35,880,Sales
+38,1189,Research & Development
+29,991,Sales
+33,392,Sales
+32,977,Research & Development
+31,1112,Sales
+49,464,Research & Development
+38,148,Research & Development
+47,1225,Sales
+49,809,Research & Development
+41,1206,Sales
+20,727,Sales
+33,530,Sales
+36,1351,Research & Development
+44,528,Human Resources
+23,1320,Research & Development
+38,1495,Research & Development
+53,1395,Research & Development
+48,708,Sales
+32,1259,Research & Development
+26,786,Research & Development
+55,1441,Research & Development
+34,1157,Research & Development
+60,370,Research & Development
+33,267,Research & Development
+37,1278,Sales
+34,678,Research & Development
+23,427,Sales
+44,921,Research & Development
+35,146,Research & Development
+43,1179,Sales
+24,581,Research & Development
+41,918,Sales
+29,1082,Research & Development
+36,530,Sales
+45,1238,Research & Development
+24,240,Human Resources
+47,1093,Sales
+26,390,Research & Development
+45,1005,Research & Development
+32,585,Research & Development
+31,741,Research & Development
+41,552,Human Resources
+40,369,Research & Development
+24,506,Research & Development
+46,717,Research & Development
+35,1370,Research & Development
+30,793,Research & Development
+47,543,Sales
+46,1277,Sales
+36,1456,Sales
+32,964,Sales
+23,160,Research & Development
+31,163,Research & Development
+39,792,Research & Development
+32,371,Sales
+40,611,Sales
+45,176,Human Resources
+30,1312,Research & Development
+24,897,Human Resources
+30,600,Human Resources
+31,1003,Sales
+27,1054,Research & Development
+29,428,Sales
+29,461,Research & Development
+30,979,Sales
+34,181,Research & Development
+33,1283,Sales
+49,1313,Sales
+33,211,Sales
+38,594,Research & Development
+31,1079,Sales
+29,590,Research & Development
+30,305,Research & Development
+32,953,Research & Development
+38,833,Research & Development
+43,807,Research & Development
+42,855,Research & Development
+55,478,Research & Development
+33,775,Research & Development
+41,548,Research & Development
+34,1375,Sales
+53,661,Research & Development
+43,244,Human Resources
+34,511,Sales
+21,337,Sales
+38,1153,Research & Development
+22,1294,Research & Development
+31,196,Sales
+51,942,Research & Development
+37,589,Sales
+46,734,Research & Development
+36,1383,Research & Development
+44,429,Research & Development
+37,1239,Human Resources
+35,303,Sales
+33,867,Research & Development
+28,1181,Research & Development
+39,1253,Research & Development
+46,849,Sales
+40,616,Research & Development
+42,1128,Research & Development
+35,1180,Research & Development
+38,1336,Human Resources
+34,234,Research & Development
+37,370,Research & Development
+39,766,Sales
+43,343,Research & Development
+41,447,Research & Development
+41,796,Sales
+30,1092,Research & Development
+26,920,Human Resources
+46,261,Research & Development
+40,1194,Research & Development
+34,810,Sales
+58,350,Sales
+35,185,Research & Development
+47,1001,Research & Development
+40,750,Research & Development
+54,431,Research & Development
+31,1125,Sales
+28,1217,Research & Development
+38,723,Sales
+26,572,Sales
+58,1216,Research & Development
+18,1431,Research & Development
+31,359,Human Resources
+29,350,Human Resources
+45,589,Sales
+36,430,Research & Development
+43,1422,Sales
+27,1297,Research & Development
+29,574,Research & Development
+32,1318,Sales
+42,355,Research & Development
+47,207,Research & Development
+46,706,Research & Development
+28,280,Human Resources
+29,726,Research & Development
+42,1142,Research & Development
+32,414,Sales
+46,1319,Sales
+27,728,Sales
+29,352,Human Resources
+43,823,Research & Development
+48,1224,Research & Development
+29,459,Research & Development
+46,1254,Sales
+27,1131,Research & Development
+39,835,Research & Development
+55,836,Research & Development
+28,1172,Sales
+30,945,Sales
+22,391,Research & Development
+36,1266,Sales
+31,311,Research & Development
+34,1480,Sales
+29,592,Research & Development
+37,783,Research & Development
+35,219,Research & Development
+45,556,Research & Development
+36,1213,Human Resources
+40,1137,Research & Development
+26,482,Research & Development
+27,511,Sales
+48,117,Research & Development
+44,170,Research & Development
+34,967,Research & Development
+56,1162,Research & Development
+36,335,Sales
+41,337,Sales
+42,1396,Research & Development
+31,1079,Sales
+34,735,Sales
+31,471,Research & Development
+26,1096,Research & Development
+45,1297,Research & Development
+33,217,Sales
+28,783,Sales
+29,746,Sales
+39,1251,Sales
+27,1354,Research & Development
+34,735,Research & Development
+28,1475,Sales
+47,1169,Research & Development
+56,1443,Sales
+39,867,Research & Development
+38,1394,Research & Development
+58,605,Sales
+32,238,Research & Development
+38,1206,Research & Development
+49,1064,Research & Development
+42,419,Sales
+27,1337,Human Resources
+35,682,Sales
+28,1103,Research & Development
+31,976,Research & Development
+36,1351,Research & Development
+34,937,Sales
+34,1239,Sales
+26,157,Research & Development
+29,136,Research & Development
+32,1146,Research & Development
+31,1125,Research & Development
+28,1404,Research & Development
+38,1404,Sales
+35,1224,Sales
+27,954,Sales
+32,1373,Research & Development
+31,754,Sales
+53,1168,Sales
+54,155,Research & Development
+33,1303,Research & Development
+43,574,Research & Development
+38,1444,Human Resources
+55,189,Human Resources
+31,1276,Research & Development
+39,119,Sales
+42,335,Research & Development
+31,697,Research & Development
+54,157,Research & Development
+24,771,Research & Development
+23,571,Research & Development
+40,692,Research & Development
+40,444,Sales
+25,309,Human Resources
+30,911,Research & Development
+25,977,Research & Development
+47,1180,Research & Development
+33,1313,Research & Development
+38,1321,Sales
+31,1154,Sales
+38,508,Research & Development
+42,557,Research & Development
+41,642,Research & Development
+47,1162,Research & Development
+35,1490,Research & Development
+22,581,Research & Development
+35,1395,Research & Development
+33,501,Research & Development
+32,267,Research & Development
+40,543,Research & Development
+32,234,Sales
+39,116,Research & Development
+38,201,Research & Development
+32,801,Sales
+37,161,Research & Development
+25,1382,Sales
+52,585,Sales
+44,1037,Research & Development
+21,501,Sales
+39,105,Research & Development
+23,638,Sales
+36,557,Sales
+36,688,Research & Development
+56,667,Research & Development
+29,1092,Research & Development
+42,300,Research & Development
+56,310,Research & Development
+41,582,Research & Development
+34,704,Sales
+36,301,Sales
+41,930,Sales
+32,529,Research & Development
+35,1146,Human Resources
+38,345,Sales
+50,878,Sales
+36,1120,Sales
+45,374,Sales
+40,1322,Research & Development
+35,1199,Research & Development
+40,1194,Research & Development
+35,287,Research & Development
+29,1378,Research & Development
+29,468,Research & Development
+50,410,Sales
+39,722,Sales
+31,325,Research & Development
+26,1167,Sales
+36,884,Research & Development
+39,613,Research & Development
+27,155,Research & Development
+49,1023,Sales
+34,628,Research & Development
